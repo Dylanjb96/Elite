@@ -55,10 +55,6 @@ The platform consists of two primary user types:
 - **jQuery 3.7.1**: For simplified DOM manipulation and AJAX handling.
 
 ### **Other**
-<<<<<<< HEAD
-=======
-- **Gunicorn**: WSGI HTTP server for running the Django application in production.
->>>>>>> f2e8e96a4052be694951924e24627738a5cf9337
 - **Jazzin**: Admin interface for Elite Stay.
 - **Environs**: For cleaner code and reducing runtime errors.
 
