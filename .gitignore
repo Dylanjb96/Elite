@@ -11,8 +11,6 @@ __pycache__/
 # Exclude SQLite database (if using SQLite)
 *.sqlite3
 
-# Exclude media files (if uploading locally)
-media/
 
 # Exclude collected static files
 staticfiles/
