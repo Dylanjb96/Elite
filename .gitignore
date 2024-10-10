@@ -11,10 +11,6 @@ __pycache__/
 # Exclude SQLite database (if using SQLite)
 *.sqlite3
 
-
-# Exclude collected static files
-staticfiles/
-
 # Exclude development environment settings
 .idea/
 .vscode/
