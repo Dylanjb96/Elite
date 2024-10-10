@@ -57,6 +57,7 @@ The platform consists of two primary user types:
 ### **Other**
 - **Jazzin**: Admin interface for Elite Stay.
 - **Environs**: For cleaner code and reducing runtime errors.
+- **Gunicorn**: WSGI HTTP server for running the Django application in production.
 
 ---
 
