@@ -1,1 +1,1 @@
-web: gunicorn elite_stay.wsgi --log-file -
+web: gunicorn hms_prj.wsgi --log-file -
