@@ -27,6 +27,8 @@ The **Elite Stay** is a Booking hotel website built using Django to allow custom
 
 ## **Project Overview**
 
+Link to render: https://elite-2s0s.onrender.com 
+
 The platform consists of two primary user types:
 
 - **Customers**: Users who can book hotels.
