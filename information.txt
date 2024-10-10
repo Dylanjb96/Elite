@@ -1,0 +1,14 @@
+password: 0rrBWEdwVPgAQ9oD5wVPqmeBT5YUWdIY
+external: postgresql://elite_stay_user:0rrBWEdwVPgAQ9oD5wVPqmeBT5YUWdIY@dpg-cs2nrpl6l47c73bm1tag-a.frankfurt-postgres.render.com/elite_stay
+internal: postgresql://elite_stay_user:0rrBWEdwVPgAQ9oD5wVPqmeBT5YUWdIY@dpg-cs2nrpl6l47c73bm1tag-a/elite_stay
+username: elite_stay_user
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'elite_stay',        # Your database name
+        'USER': 'elite_stay_user',       # Your database user
+        'PASSWORD': '0rrBWEdwVPgAQ9oD5wVPqmeBT5YUWdIY', # Your user's password
+        'HOST': 'dpg-cs2nrpl6l47c73bm1tag-a.frankfurt-postgres.render.com',    # Database host (empty string for localhost)
+        'PORT': '5432',         # Default PostgreSQL port
+    }
+}
