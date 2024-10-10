@@ -145,6 +145,11 @@ The application relies on PostgreSQL for data storage, with Django ORM handling 
 - **Calendar**: 
   - Users can view the calender and select the date for check-in and check-out.
   - AJAX is used to fetch, update, and manage booking data in real-time.
+
+- **Payment**:
+  - Users can select the payment method. They can use mock cards for Flutterwave or Stripe payments.
+  - For Flutterwave payment, use the card number: 4187427415564246, Expiry: 09/32 and CVV: 828.
+  - For Stripe payment, use the card number:  4242 4242 4242 4242, Expiry: 12/34 and CVV: Any 3 number.  
   
 - **Bootstrap & Responsive Design**: Ensures a seamless and user-friendly experience across all devices, including desktops, tablets, and mobile phones, by automatically adjusting the layout to fit various screen sizes.
 
